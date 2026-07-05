@@ -287,10 +287,3 @@ TikTok
 - Threat Detection
 - Intrusion Detection Rules
 
----
-
-# 👩‍💻 Author
-
-**Aashi Singh**
-
-If you found this project useful, consider ⭐ starring the repository!
